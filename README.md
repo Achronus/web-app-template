@@ -12,6 +12,7 @@ Simply, duplicate the branch, rename the directory, navigate to it, and amend th
 - `docker-compose.yaml` - change the `container_name`
 - `Dockerfile` - the Python version in the `builder`
 - `pyproject.toml` - the `name`, `description`, `version`, and `authors`
+- `.env` - update the variable values
 
 Once done, run the following commands in the main directory:
 ```cmd
